@@ -5,6 +5,7 @@
 [M::gen_telo_end_t::] ==> # 5'-telomeres::0, # 3'-telomeres::0
 
 4. Overlap stats: graph is huge and dense consistent with very high coverage → tangled graph, more chances for misjoins or over‑collapsed regions. SOLUTION: Downsample HiFi reads
+
 overlaps: 521430861  
 strong overlaps: 338904089  
 weak overlaps: 182526772
