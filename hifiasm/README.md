@@ -5,8 +5,8 @@
 [M::gen_telo_end_t::] ==> # 5'-telomeres::0, # 3'-telomeres::0
 
 4. Overlap stats: graph is huge and dense consistent with very high coverage → tangled graph, more chances for misjoins or over‑collapsed regions. SOLUTION: Downsample HiFi reads
-# overlaps: 521430861  
-# strong overlaps: 338904089  
-# weak overlaps: 182526772
+overlaps: 521430861
+strong overlaps: 338904089
+weak overlaps: 182526772
 
-4. purge_dups is run multiple times. If over‑purging or missing content is suspected. SOLUTION: Try a run with less aggressive purging or even no purging.
+6. purge_dups is run multiple times. If over‑purging or missing content is suspected. SOLUTION: Try a run with less aggressive purging or even no purging.
