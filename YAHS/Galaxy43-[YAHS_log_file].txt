@@ -1,0 +1,162 @@
+[I::main] dump hic links (BAM) to binary file yahs_out.bin
+[I::dump_links_from_bam_file] 1 million records processed, 498272 read pairs 
+[I::dump_links_from_bam_file] 2 million records processed, 998257 read pairs 
+[I::dump_links_from_bam_file] 3 million records processed, 1497986 read pairs 
+[I::dump_links_from_bam_file] 4 million records processed, 1997356 read pairs 
+[I::dump_links_from_bam_file] 5 million records processed, 2498049 read pairs 
+[I::dump_links_from_bam_file] 6 million records processed, 2997779 read pairs 
+[I::dump_links_from_bam_file] 7 million records processed, 3497778 read pairs 
+[I::dump_links_from_bam_file] 8 million records processed, 3997737 read pairs 
+[I::dump_links_from_bam_file] 9 million records processed, 4498090 read pairs 
+[I::dump_links_from_bam_file] 10 million records processed, 4997713 read pairs 
+[I::dump_links_from_bam_file] 11 million records processed, 5498794 read pairs 
+[I::dump_links_from_bam_file] 12 million records processed, 5998112 read pairs 
+[I::dump_links_from_bam_file] 13 million records processed, 6497520 read pairs 
+[I::dump_links_from_bam_file] 14 million records processed, 6997420 read pairs 
+[I::dump_links_from_bam_file] 15 million records processed, 7498772 read pairs 
+[I::dump_links_from_bam_file] 16 million records processed, 7998418 read pairs 
+[I::dump_links_from_bam_file] 17 million records processed, 8498404 read pairs 
+[I::dump_links_from_bam_file] 18 million records processed, 8996084 read pairs 
+[I::dump_links_from_bam_file] 19 million records processed, 9496032 read pairs 
+[I::dump_links_from_bam_file] 20 million records processed, 9995609 read pairs 
+[I::dump_links_from_bam_file] 21 million records processed, 10495999 read pairs 
+[I::dump_links_from_bam_file] 22 million records processed, 10996071 read pairs 
+[I::dump_links_from_bam_file] 23 million records processed, 11495706 read pairs 
+[I::dump_links_from_bam_file] 24 million records processed, 11995386 read pairs 
+[I::dump_links_from_bam_file] 25 million records processed, 12495292 read pairs 
+[I::dump_links_from_bam_file] 26 million records processed, 12996451 read pairs 
+[I::dump_links_from_bam_file] 27 million records processed, 13496322 read pairs 
+[I::dump_links_from_bam_file] 28 million records processed, 13996211 read pairs 
+[I::dump_links_from_bam_file] 29 million records processed, 14494645 read pairs 
+[I::dump_links_from_bam_file] 30 million records processed, 14995985 read pairs 
+[I::dump_links_from_bam_file] 31 million records processed, 15495570 read pairs 
+[I::dump_links_from_bam_file] 32 million records processed, 15995999 read pairs 
+[I::dump_links_from_bam_file] 33 million records processed, 16496045 read pairs 
+[I::dump_links_from_bam_file] 34 million records processed, 16996671 read pairs 
+[I::dump_links_from_bam_file] 35 million records processed, 17496600 read pairs 
+[I::dump_links_from_bam_file] 36 million records processed, 17997783 read pairs 
+[I::dump_links_from_bam_file] 37 million records processed, 18498001 read pairs 
+[I::dump_links_from_bam_file] 38 million records processed, 18998330 read pairs 
+[I::dump_links_from_bam_file] 39 million records processed, 19497589 read pairs 
+[I::dump_links_from_bam_file] 40 million records processed, 19996670 read pairs 
+[I::dump_links_from_bam_file] 41 million records processed, 20497578 read pairs 
+[I::dump_links_from_bam_file] 42 million records processed, 20998150 read pairs 
+[I::dump_links_from_bam_file] 43 million records processed, 21498929 read pairs 
+[I::dump_links_from_bam_file] 44 million records processed, 21999186 read pairs 
+[I::dump_links_from_bam_file] 45 million records processed, 22499742 read pairs 
+[I::dump_links_from_bam_file] 46 million records processed, 22999410 read pairs 
+[I::dump_links_from_bam_file] 47 million records processed, 23498603 read pairs 
+[I::dump_links_from_bam_file] 48 million records processed, 23999401 read pairs 
+[I::dump_links_from_bam_file] 49 million records processed, 24499224 read pairs 
+[I::dump_links_from_bam_file] 50 million records processed, 24999647 read pairs 
+[I::dump_links_from_bam_file] 51 million records processed, 25497984 read pairs 
+[I::dump_links_from_bam_file] 52 million records processed, 25998427 read pairs 
+[I::dump_links_from_bam_file] 53 million records processed, 26497696 read pairs 
+[I::dump_links_from_bam_file] 54 million records processed, 26998021 read pairs 
+[I::dump_links_from_bam_file] 55 million records processed, 27497733 read pairs 
+[I::dump_links_from_bam_file] 56 million records processed, 28001876 read pairs 
+[I::dump_links_from_bam_file] 57 million records processed, 28500452 read pairs 
+[I::dump_links_from_bam_file] 58 million records processed, 29001079 read pairs 
+[I::dump_links_from_bam_file] 59 million records processed, 29501634 read pairs 
+[I::dump_links_from_bam_file] 60 million records processed, 30001924 read pairs 
+[I::dump_links_from_bam_file] 61 million records processed, 30503276 read pairs 
+[I::dump_links_from_bam_file] 62 million records processed, 31002779 read pairs 
+[I::dump_links_from_bam_file] 63 million records processed, 31501728 read pairs 
+[I::dump_links_from_bam_file] 64 million records processed, 32001933 read pairs 
+[I::dump_links_from_bam_file] 65 million records processed, 32501010 read pairs 
+[I::dump_links_from_bam_file] 66 million records processed, 33001283 read pairs 
+[I::dump_links_from_bam_file] 67 million records processed, 33500908 read pairs 
+[I::dump_links_from_bam_file] 68 million records processed, 34001152 read pairs 
+[I::dump_links_from_bam_file] 69 million records processed, 34501476 read pairs 
+[I::dump_links_from_bam_file] 70 million records processed, 35000903 read pairs 
+[I::dump_links_from_bam_file] 71 million records processed, 35501702 read pairs 
+[I::dump_links_from_bam_file] 72 million records processed, 36001055 read pairs 
+[I::dump_links_from_bam_file] 73 million records processed, 36500692 read pairs 
+[I::dump_links_from_bam_file] 74 million records processed, 37001508 read pairs 
+[I::dump_links_from_bam_file] 75 million records processed, 37501862 read pairs 
+[I::dump_links_from_bam_file] 76 million records processed, 38001919 read pairs 
+[I::dump_links_from_bam_file] 77 million records processed, 38500477 read pairs 
+[I::dump_links_from_bam_file] 78 million records processed, 39000709 read pairs 
+[I::dump_links_from_bam_file] 79 million records processed, 39500793 read pairs 
+[I::dump_links_from_bam_file] 80 million records processed, 40000572 read pairs 
+[I::dump_links_from_bam_file] 81 million records processed, 40500671 read pairs 
+[I::dump_links_from_bam_file] 82 million records processed, 41001147 read pairs 
+[I::dump_links_from_bam_file] 83 million records processed, 41499639 read pairs 
+[I::dump_links_from_bam_file] 84 million records processed, 41999189 read pairs 
+[I::dump_links_from_bam_file] 85 million records processed, 42498053 read pairs 
+[I::dump_links_from_bam_file] 86 million records processed, 42999905 read pairs 
+[I::dump_links_from_bam_file] 87 million records processed, 43499798 read pairs 
+[I::dump_links_from_bam_file] 88 million records processed, 43998411 read pairs 
+[I::dump_links_from_bam_file] 89 million records processed, 44498097 read pairs 
+[I::dump_links_from_bam_file] 90 million records processed, 44998378 read pairs 
+[I::dump_links_from_bam_file] 91 million records processed, 45499778 read pairs 
+[I::dump_links_from_bam_file] dumped 45951717 read pairs from 91903434 records: 36229706 intra links + 9722011 inter links 
+[I::run_yahs] RAM total: 503.369GB
+[I::run_yahs] RAM limit: 13.575GB
+[I::run_yahs] RAM check disabled
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2752958 (n = 16)
+[I::print_asm_stats]  N90: 34678 (n = 785)
+[I::print_asm_stats]  N100: 16842 (n = 1274)
+[I::run_yahs] scaffolding round 1 resolution = 10000
+[I::run_scaffolding] starting norm estimation...
+[I::run_scaffolding] starting link estimation...
+[I::inter_link_norms] using noise level 0.016
+[I::inter_link_norms] average link count: 18997.813 8527115.000 0.002
+[I::run_scaffolding] starting scaffolding graph contruction...
+[I::run_yahs] scaffolding round 1 done
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2752958 (n = 16)
+[I::print_asm_stats]  N90: 34678 (n = 783)
+[I::run_yahs] scaffolding round 2 resolution = 20000
+[I::run_scaffolding] starting norm estimation...
+[I::run_scaffolding] starting link estimation...
+[I::inter_link_norms] using noise level 0.196
+[I::inter_link_norms] average link count: 123695.405 2915019.000 0.042
+[I::run_scaffolding] starting scaffolding graph contruction...
+[I::run_yahs] scaffolding round 2 done
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2987982 (n = 16)
+[I::print_asm_stats]  N90: 34678 (n = 782)
+[I::run_yahs] scaffolding round 3 resolution = 50000
+[I::run_scaffolding] starting norm estimation...
+[I::run_scaffolding] starting link estimation...
+[I::inter_link_norms] using noise level 3.044
+[I::inter_link_norms] average link count: 49314.721 271183.000 0.182
+[I::run_scaffolding] starting scaffolding graph contruction...
+[I::run_yahs] scaffolding round 3 done
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2992830 (n = 15)
+[I::print_asm_stats]  N90: 34678 (n = 781)
+[I::run_yahs] scaffolding round 4 resolution = 100000
+[I::run_scaffolding] starting norm estimation...
+[I::run_scaffolding] starting link estimation...
+[I::inter_link_norms] using noise level 16.641
+[I::inter_link_norms] average link count: 13827.450 59788.000 0.231
+[I::run_scaffolding] starting scaffolding graph contruction...
+[I::run_yahs] scaffolding round 4 done
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2992830 (n = 15)
+[I::print_asm_stats]  N90: 34678 (n = 781)
+[I::run_yahs] scaffolding round 5 resolution = 200000
+[I::run_scaffolding] starting norm estimation...
+[I::run_scaffolding] starting link estimation...
+[I::inter_link_norms] using noise level 69.691
+[I::inter_link_norms] average link count: 3495.009 14762.000 0.237
+[I::run_scaffolding] starting scaffolding graph contruction...
+[I::run_yahs] scaffolding round 5 done
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2992830 (n = 15)
+[I::print_asm_stats]  N90: 34678 (n = 781)
+[I::run_yahs] scaffolding round 6 resolution = 500000
+[I::run_yahs] assembly N50 (2992830) too small. End of scaffolding.
+[I::main] writing FASTA file for scaffolds
+[I::write_fasta_file_from_agp] Number sequences: 1270
+[I::write_fasta_file_from_agp] Number bases: 137535334
+[I::print_asm_stats] assembly stats:
+[I::print_asm_stats]  N50: 2992830 (n = 15)
+[I::print_asm_stats]  N90: 34678 (n = 781)
+[I::print_asm_stats]  N100: 16842 (n = 1270)
+[I::main] Version: 1.2a.1
+[I::main] CMD: yahs --no-mem-check --no-contig-ec -o yahs_out input.fasta input.bam
+[I::main] Real time: 98.705 sec; CPU: 93.916 sec; Peak RSS: 0.705 GB
