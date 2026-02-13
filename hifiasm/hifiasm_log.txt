@@ -1,1 +1,670 @@
-paste in here the standard error ooutput from hifiasm
+[M::ha_analyze_count] lowest: count[32] = 5923
+[M::ha_analyze_count] highest: count[286] = 572612
+[M::ha_hist_line]     2: ****************************************************************************************************> 11354823
+[M::ha_hist_line]     3: ****************************************************************************************************> 5024299
+[M::ha_hist_line]     4: ****************************************************************************************************> 2215392
+[M::ha_hist_line]     5: ****************************************************************************************************> 1011808
+[M::ha_hist_line]     6: ************************************************************************************* 487196
+[M::ha_hist_line]     7: ***************************************************** 300967
+[M::ha_hist_line]     8: ************************************ 207443
+[M::ha_hist_line]     9: **************************** 159960
+[M::ha_hist_line]    10: ********************** 126303
+[M::ha_hist_line]    11: ****************** 102620
+[M::ha_hist_line]    12: *************** 83774
+[M::ha_hist_line]    13: ************ 71266
+[M::ha_hist_line]    14: *********** 60824
+[M::ha_hist_line]    15: ********* 50818
+[M::ha_hist_line]    16: ******** 43372
+[M::ha_hist_line]    17: ****** 35717
+[M::ha_hist_line]    18: ****** 33157
+[M::ha_hist_line]    19: ***** 29226
+[M::ha_hist_line]    20: **** 25063
+[M::ha_hist_line]    21: **** 20275
+[M::ha_hist_line]    22: *** 18562
+[M::ha_hist_line]    23: *** 16074
+[M::ha_hist_line]    24: *** 16026
+[M::ha_hist_line]    25: *** 14762
+[M::ha_hist_line]    26: ** 11385
+[M::ha_hist_line]    27: ** 10336
+[M::ha_hist_line]    28: ** 9554
+[M::ha_hist_line]    29: * 8058
+[M::ha_hist_line]    30: * 7437
+[M::ha_hist_line]    31: * 7100
+[M::ha_hist_line]    32: * 5923
+[M::ha_hist_line]    33: * 6402
+[M::ha_hist_line]    34: * 5829
+[M::ha_hist_line]    35: * 4815
+[M::ha_hist_line]    36: * 3974
+[M::ha_hist_line]    37: * 4374
+[M::ha_hist_line]    38: * 4745
+[M::ha_hist_line]    39: * 3919
+[M::ha_hist_line]    40: * 4264
+[M::ha_hist_line]    41: * 3929
+[M::ha_hist_line]    42: * 3408
+[M::ha_hist_line]    43: * 3743
+[M::ha_hist_line]    44: * 4359
+[M::ha_hist_line]    45: * 4104
+[M::ha_hist_line]    46: * 3921
+[M::ha_hist_line]    47: * 3827
+[M::ha_hist_line]    48: * 3657
+[M::ha_hist_line]    49: * 3769
+[M::ha_hist_line]    50: * 3640
+[M::ha_hist_line]    51: * 3495
+[M::ha_hist_line]    52: * 3765
+[M::ha_hist_line]    53: * 3611
+[M::ha_hist_line]    54: * 3859
+[M::ha_hist_line]    55: * 3445
+[M::ha_hist_line]    56: * 3262
+[M::ha_hist_line]    57: * 3174
+[M::ha_hist_line]    58: * 3754
+[M::ha_hist_line]    59: * 4553
+[M::ha_hist_line]    60: * 5154
+[M::ha_hist_line]    61: * 5255
+[M::ha_hist_line]    62: * 5054
+[M::ha_hist_line]    63: * 5584
+[M::ha_hist_line]    64: * 5678
+[M::ha_hist_line]    65: * 6854
+[M::ha_hist_line]    66: * 7864
+[M::ha_hist_line]    67: * 8131
+[M::ha_hist_line]    68: ** 8672
+[M::ha_hist_line]    69: ** 9134
+[M::ha_hist_line]    70: ** 10364
+[M::ha_hist_line]    71: ** 9596
+[M::ha_hist_line]    72: ** 9279
+[M::ha_hist_line]    73: ** 9262
+[M::ha_hist_line]    74: ** 10132
+[M::ha_hist_line]    75: ** 10283
+[M::ha_hist_line]    76: ** 12561
+[M::ha_hist_line]    77: ** 12232
+[M::ha_hist_line]    78: ** 13837
+[M::ha_hist_line]    79: ** 14285
+[M::ha_hist_line]    80: *** 14895
+[M::ha_hist_line]    81: *** 15000
+[M::ha_hist_line]    82: *** 17329
+[M::ha_hist_line]    83: *** 19976
+[M::ha_hist_line]    84: *** 18585
+[M::ha_hist_line]    85: **** 21372
+[M::ha_hist_line]    86: **** 21889
+[M::ha_hist_line]    87: **** 21943
+[M::ha_hist_line]    88: **** 22724
+[M::ha_hist_line]    89: **** 21253
+[M::ha_hist_line]    90: **** 22490
+[M::ha_hist_line]    91: **** 24092
+[M::ha_hist_line]    92: **** 23102
+[M::ha_hist_line]    93: **** 25539
+[M::ha_hist_line]    94: ***** 28968
+[M::ha_hist_line]    95: ***** 30055
+[M::ha_hist_line]    96: ***** 29254
+[M::ha_hist_line]    97: ***** 29496
+[M::ha_hist_line]    98: ***** 29591
+[M::ha_hist_line]    99: ***** 31251
+[M::ha_hist_line]   100: ****** 34090
+[M::ha_hist_line]   101: ****** 36622
+[M::ha_hist_line]   102: ******* 38863
+[M::ha_hist_line]   103: ******* 39377
+[M::ha_hist_line]   104: ******* 42085
+[M::ha_hist_line]   105: ******** 43421
+[M::ha_hist_line]   106: ******** 45555
+[M::ha_hist_line]   107: ******** 48387
+[M::ha_hist_line]   108: ********* 51178
+[M::ha_hist_line]   109: ********* 52121
+[M::ha_hist_line]   110: ********* 53661
+[M::ha_hist_line]   111: ********** 56419
+[M::ha_hist_line]   112: *********** 61825
+[M::ha_hist_line]   113: *********** 60971
+[M::ha_hist_line]   114: *********** 64409
+[M::ha_hist_line]   115: ************ 69161
+[M::ha_hist_line]   116: ************* 73893
+[M::ha_hist_line]   117: ************** 81566
+[M::ha_hist_line]   118: *************** 87164
+[M::ha_hist_line]   119: **************** 94061
+[M::ha_hist_line]   120: ****************** 102997
+[M::ha_hist_line]   121: ******************* 110659
+[M::ha_hist_line]   122: ********************* 117998
+[M::ha_hist_line]   123: ********************** 126678
+[M::ha_hist_line]   124: *********************** 132422
+[M::ha_hist_line]   125: ************************* 141058
+[M::ha_hist_line]   126: ************************** 147176
+[M::ha_hist_line]   127: *************************** 153648
+[M::ha_hist_line]   128: **************************** 159790
+[M::ha_hist_line]   129: ***************************** 167823
+[M::ha_hist_line]   130: ******************************* 176238
+[M::ha_hist_line]   131: ******************************** 182576
+[M::ha_hist_line]   132: ******************************** 183462
+[M::ha_hist_line]   133: ********************************* 188571
+[M::ha_hist_line]   134: ********************************* 191238
+[M::ha_hist_line]   135: *********************************** 200121
+[M::ha_hist_line]   136: ************************************* 210792
+[M::ha_hist_line]   137: ************************************** 219063
+[M::ha_hist_line]   138: **************************************** 227047
+[M::ha_hist_line]   139: ***************************************** 232515
+[M::ha_hist_line]   140: ****************************************** 238318
+[M::ha_hist_line]   141: ****************************************** 238002
+[M::ha_hist_line]   142: ****************************************** 242610
+[M::ha_hist_line]   143: ******************************************* 246219
+[M::ha_hist_line]   144: ******************************************* 248551
+[M::ha_hist_line]   145: ****************************************** 239999
+[M::ha_hist_line]   146: **************************************** 230521
+[M::ha_hist_line]   147: *************************************** 224415
+[M::ha_hist_line]   148: *************************************** 220653
+[M::ha_hist_line]   149: ************************************* 211291
+[M::ha_hist_line]   150: ************************************* 209281
+[M::ha_hist_line]   151: ********************************** 196962
+[M::ha_hist_line]   152: ******************************** 186089
+[M::ha_hist_line]   153: ********************************* 186705
+[M::ha_hist_line]   154: ******************************** 183420
+[M::ha_hist_line]   155: ******************************* 179214
+[M::ha_hist_line]   156: **************************** 163166
+[M::ha_hist_line]   157: *************************** 152454
+[M::ha_hist_line]   158: ************************* 141528
+[M::ha_hist_line]   159: ************************ 135144
+[M::ha_hist_line]   160: *********************** 134042
+[M::ha_hist_line]   161: ********************** 124263
+[M::ha_hist_line]   162: ********************* 120066
+[M::ha_hist_line]   163: ******************** 112563
+[M::ha_hist_line]   164: ****************** 102791
+[M::ha_hist_line]   165: ***************** 96358
+[M::ha_hist_line]   166: **************** 90728
+[M::ha_hist_line]   167: *************** 84695
+[M::ha_hist_line]   168: ************** 77926
+[M::ha_hist_line]   169: ************* 72616
+[M::ha_hist_line]   170: ************ 66570
+[M::ha_hist_line]   171: *********** 64873
+[M::ha_hist_line]   172: ********** 57672
+[M::ha_hist_line]   173: ********* 50868
+[M::ha_hist_line]   174: ********* 49147
+[M::ha_hist_line]   175: ********* 49428
+[M::ha_hist_line]   176: ******** 45507
+[M::ha_hist_line]   177: ******** 44788
+[M::ha_hist_line]   178: ******** 43497
+[M::ha_hist_line]   179: ******* 42833
+[M::ha_hist_line]   180: ******** 43209
+[M::ha_hist_line]   181: ******** 43490
+[M::ha_hist_line]   182: ******** 44849
+[M::ha_hist_line]   183: ******** 44982
+[M::ha_hist_line]   184: ******** 46490
+[M::ha_hist_line]   185: ******** 45333
+[M::ha_hist_line]   186: ******** 45006
+[M::ha_hist_line]   187: ******** 44129
+[M::ha_hist_line]   188: ******** 43385
+[M::ha_hist_line]   189: ******* 41899
+[M::ha_hist_line]   190: ******** 43586
+[M::ha_hist_line]   191: ******** 43709
+[M::ha_hist_line]   192: ******** 45828
+[M::ha_hist_line]   193: ******** 47157
+[M::ha_hist_line]   194: ******** 48332
+[M::ha_hist_line]   195: ********* 51478
+[M::ha_hist_line]   196: ********* 52506
+[M::ha_hist_line]   197: ********** 54892
+[M::ha_hist_line]   198: ********** 58098
+[M::ha_hist_line]   199: *********** 60747
+[M::ha_hist_line]   200: *********** 62389
+[M::ha_hist_line]   201: *********** 65390
+[M::ha_hist_line]   202: *********** 65100
+[M::ha_hist_line]   203: *********** 65694
+[M::ha_hist_line]   204: ************ 65993
+[M::ha_hist_line]   205: ************ 67889
+[M::ha_hist_line]   206: ************ 69669
+[M::ha_hist_line]   207: ************* 72215
+[M::ha_hist_line]   208: ************* 74887
+[M::ha_hist_line]   209: ************* 76516
+[M::ha_hist_line]   210: ************** 78305
+[M::ha_hist_line]   211: ************** 78825
+[M::ha_hist_line]   212: ************** 80113
+[M::ha_hist_line]   213: ************** 82921
+[M::ha_hist_line]   214: ************** 82781
+[M::ha_hist_line]   215: *************** 86279
+[M::ha_hist_line]   216: *************** 88704
+[M::ha_hist_line]   217: **************** 92773
+[M::ha_hist_line]   218: ***************** 96178
+[M::ha_hist_line]   219: ****************** 100410
+[M::ha_hist_line]   220: ****************** 102453
+[M::ha_hist_line]   221: ****************** 102806
+[M::ha_hist_line]   222: ****************** 103597
+[M::ha_hist_line]   223: ******************* 106430
+[M::ha_hist_line]   224: ******************* 106955
+[M::ha_hist_line]   225: ******************** 114016
+[M::ha_hist_line]   226: ******************** 114403
+[M::ha_hist_line]   227: ******************** 116042
+[M::ha_hist_line]   228: ********************* 122464
+[M::ha_hist_line]   229: ********************** 127157
+[M::ha_hist_line]   230: *********************** 132739
+[M::ha_hist_line]   231: *********************** 133096
+[M::ha_hist_line]   232: ************************ 134930
+[M::ha_hist_line]   233: ************************* 140513
+[M::ha_hist_line]   234: ************************* 145740
+[M::ha_hist_line]   235: ************************** 149427
+[M::ha_hist_line]   236: *************************** 152363
+[M::ha_hist_line]   237: **************************** 157849
+[M::ha_hist_line]   238: ***************************** 164333
+[M::ha_hist_line]   239: ****************************** 170168
+[M::ha_hist_line]   240: ****************************** 172147
+[M::ha_hist_line]   241: ******************************* 177329
+[M::ha_hist_line]   242: ******************************** 183029
+[M::ha_hist_line]   243: ********************************* 188127
+[M::ha_hist_line]   244: ********************************** 193941
+[M::ha_hist_line]   245: *********************************** 198636
+[M::ha_hist_line]   246: ************************************ 207533
+[M::ha_hist_line]   247: *************************************** 222707
+[M::ha_hist_line]   248: **************************************** 227768
+[M::ha_hist_line]   249: ***************************************** 234580
+[M::ha_hist_line]   250: ******************************************* 244066
+[M::ha_hist_line]   251: ******************************************* 247432
+[M::ha_hist_line]   252: ******************************************** 253924
+[M::ha_hist_line]   253: ********************************************* 256647
+[M::ha_hist_line]   254: *********************************************** 267624
+[M::ha_hist_line]   255: ************************************************* 278364
+[M::ha_hist_line]   256: *************************************************** 289299
+[M::ha_hist_line]   257: ***************************************************** 303406
+[M::ha_hist_line]   258: ******************************************************** 318163
+[M::ha_hist_line]   259: ********************************************************** 333648
+[M::ha_hist_line]   260: ************************************************************* 348966
+[M::ha_hist_line]   261: *************************************************************** 362460
+[M::ha_hist_line]   262: *************************************************************** 363413
+[M::ha_hist_line]   263: ****************************************************************** 377967
+[M::ha_hist_line]   264: ******************************************************************** 390010
+[M::ha_hist_line]   265: ********************************************************************** 400935
+[M::ha_hist_line]   266: ************************************************************************ 410509
+[M::ha_hist_line]   267: ************************************************************************* 417742
+[M::ha_hist_line]   268: ************************************************************************** 423377
+[M::ha_hist_line]   269: **************************************************************************** 436985
+[M::ha_hist_line]   270: ****************************************************************************** 447518
+[M::ha_hist_line]   271: ******************************************************************************** 460283
+[M::ha_hist_line]   272: ********************************************************************************** 468869
+[M::ha_hist_line]   273: *********************************************************************************** 476592
+[M::ha_hist_line]   274: ************************************************************************************ 480990
+[M::ha_hist_line]   275: ************************************************************************************* 488136
+[M::ha_hist_line]   276: *************************************************************************************** 497140
+[M::ha_hist_line]   277: **************************************************************************************** 504375
+[M::ha_hist_line]   278: ***************************************************************************************** 511881
+[M::ha_hist_line]   279: ******************************************************************************************** 527628
+[M::ha_hist_line]   280: ********************************************************************************************* 534294
+[M::ha_hist_line]   281: *********************************************************************************************** 544682
+[M::ha_hist_line]   282: ************************************************************************************************ 550058
+[M::ha_hist_line]   283: ************************************************************************************************** 559928
+[M::ha_hist_line]   284: *************************************************************************************************** 566720
+[M::ha_hist_line]   285: *************************************************************************************************** 566576
+[M::ha_hist_line]   286: **************************************************************************************************** 572612
+[M::ha_hist_line]   287: *************************************************************************************************** 569287
+[M::ha_hist_line]   288: *************************************************************************************************** 568656
+[M::ha_hist_line]   289: **************************************************************************************************** 570569
+[M::ha_hist_line]   290: *******************************************************
+..
+ 456: * 293
+[M::ha_hist_line]   457: * 288
+[M::ha_hist_line]   458: * 249
+[M::ha_hist_line]   459: * 296
+[M::ha_hist_line]   460: * 260
+[M::ha_hist_line]   461: * 244
+[M::ha_hist_line]   462: * 219
+[M::ha_hist_line]   463: * 233
+[M::ha_hist_line]   464: * 244
+[M::ha_hist_line]   465: * 244
+[M::ha_hist_line]   466: * 238
+[M::ha_hist_line]   467: * 227
+[M::ha_hist_line]   468: * 229
+[M::ha_hist_line]   469: * 220
+[M::ha_hist_line]   470: * 210
+[M::ha_hist_line]   471: * 220
+[M::ha_hist_line]   472: * 196
+[M::ha_hist_line]   473: * 206
+[M::ha_hist_line]   474: * 167
+[M::ha_hist_line]   475: * 178
+[M::ha_hist_line]   476: * 164
+[M::ha_hist_line]   477: * 164
+[M::ha_hist_line]   478: * 188
+[M::ha_hist_line]   479: * 209
+[M::ha_hist_line]   480: * 177
+[M::ha_hist_line]   481: * 200
+[M::ha_hist_line]   482: * 176
+[M::ha_hist_line]   483: * 193
+[M::ha_hist_line]   484: * 199
+[M::ha_hist_line]   485: * 182
+[M::ha_hist_line]   486: * 201
+[M::ha_hist_line]   487: * 191
+[M::ha_hist_line]   488: * 173
+[M::ha_hist_line]   489: * 183
+[M::ha_hist_line]   490: * 161
+[M::ha_hist_line]   491: * 144
+[M::ha_hist_line]   492: * 156
+[M::ha_hist_line]   493: * 136
+[M::ha_hist_line]   494: * 174
+[M::ha_hist_line]   495: * 170
+[M::ha_hist_line]   496: * 194
+[M::ha_hist_line]   497: * 188
+[M::ha_hist_line]   498: * 177
+[M::ha_hist_line]   499: * 202
+[M::ha_hist_line]   500: * 202
+[M::ha_hist_line]   501: * 218
+[M::ha_hist_line]   502: * 220
+[M::ha_hist_line]   503: * 215
+[M::ha_hist_line]   504: * 197
+[M::ha_hist_line]   505: * 203
+[M::ha_hist_line]   506: * 159
+[M::ha_hist_line]   507: * 217
+[M::ha_hist_line]   508: * 208
+[M::ha_hist_line]   509: * 222
+[M::ha_hist_line]   510: * 217
+[M::ha_hist_line]   511: * 206
+[M::ha_hist_line]   512: * 209
+[M::ha_hist_line]   513: * 240
+[M::ha_hist_line]   514: * 255
+[M::ha_hist_line]   515: * 262
+[M::ha_hist_line]   516: * 214
+[M::ha_hist_line]   517: * 223
+[M::ha_hist_line]   518: * 247
+[M::ha_hist_line]   519: * 221
+[M::ha_hist_line]   520: * 247
+[M::ha_hist_line]   521: * 262
+[M::ha_hist_line]   522: * 264
+[M::ha_hist_line]   523: * 294
+[M::ha_hist_line]   524: * 288
+[M::ha_hist_line]   525: * 260
+[M::ha_hist_line]   526: * 267
+[M::ha_hist_line]   527: * 253
+[M::ha_hist_line]   528: * 261
+[M::ha_hist_line]   529: * 231
+[M::ha_hist_line]   530: * 256
+[M::ha_hist_line]   531: * 246
+[M::ha_hist_line]   532: * 304
+[M::ha_hist_line]   533: * 276
+[M::ha_hist_line]   534: * 278
+[M::ha_hist_line]   535: * 293
+[M::ha_hist_line]   536: * 289
+[M::ha_hist_line]   537: * 288
+[M::ha_hist_line]   538: * 269
+[M::ha_hist_line]   539: * 338
+[M::ha_hist_line]   540: * 301
+[M::ha_hist_line]   541: * 317
+[M::ha_hist_line]   542: * 312
+[M::ha_hist_line]   543: * 293
+[M::ha_hist_line]   544: * 336
+[M::ha_hist_line]   545: ** 354
+[M::ha_hist_line]   546: ** 373
+[M::ha_hist_line]   547: ** 347
+[M::ha_hist_line]   548: ** 354
+[M::ha_hist_line]   549: ** 358
+[M::ha_hist_line]   550: ** 360
+[M::ha_hist_line]   551: ** 356
+[M::ha_hist_line]   552: ** 351
+[M::ha_hist_line]   553: * 313
+[M::ha_hist_line]   554: ** 356
+[M::ha_hist_line]   555: * 322
+[M::ha_hist_line]   556: * 335
+[M::ha_hist_line]   557: ** 388
+[M::ha_hist_line]   558: ** 428
+[M::ha_hist_line]   559: ** 386
+[M::ha_hist_line]   560: ** 395
+[M::ha_hist_line]   561: ** 413
+[M::ha_hist_line]   562: ** 385
+[M::ha_hist_line]   563: ** 392
+[M::ha_hist_line]   564: ** 397
+[M::ha_hist_line]   565: ** 436
+[M::ha_hist_line]   566: ** 394
+[M::ha_hist_line]   567: ** 421
+[M::ha_hist_line]   568: ** 394
+[M::ha_hist_line]   569: ** 417
+[M::ha_hist_line]   570: ** 429
+[M::ha_hist_line]   571: ** 377
+[M::ha_hist_line]   572: * 342
+[M::ha_hist_line]   573: ** 436
+[M::ha_hist_line]   574: ** 475
+[M::ha_hist_line]   575: ** 415
+[M::ha_hist_line]   576: ** 409
+[M::ha_hist_line]   577: ** 390
+[M::ha_hist_line]   578: ** 420
+[M::ha_hist_line]   579: ** 437
+[M::ha_hist_line]   580: ** 411
+[M::ha_hist_line]   581: ** 412
+[M::ha_hist_line]   582: ** 394
+[M::ha_hist_line]   583: ** 436
+[M::ha_hist_line]   584: ** 402
+[M::ha_hist_line]   585: ** 433
+[M::ha_hist_line]   586: ** 433
+[M::ha_hist_line]   587: ** 427
+[M::ha_hist_line]   588: ** 367
+[M::ha_hist_line]   589: ** 366
+[M::ha_hist_line]   590: ** 393
+[M::ha_hist_line]   591: ** 464
+[M::ha_hist_line]   592: ** 395
+[M::ha_hist_line]   593: ** 372
+[M::ha_hist_line]   594: ** 399
+[M::ha_hist_line]   595: ** 449
+[M::ha_hist_line]   596: ** 364
+[M::ha_hist_line]   597: ** 391
+[M::ha_hist_line]   598: ** 352
+[M::ha_hist_line]   599: ** 376
+[M::ha_hist_line]   600: ** 355
+[M::ha_hist_line]   601: * 342
+[M::ha_hist_line]   602: * 306
+[M::ha_hist_line]   603: * 275
+[M::ha_hist_line]   604: * 281
+[M::ha_hist_line]   605: * 279
+[M::ha_hist_line]   606: * 312
+[M::ha_hist_line]   607: * 288
+[M::ha_hist_line]   608: * 287
+[M::ha_hist_line]   609: * 264
+[M::ha_hist_line]   610: * 253
+[M::ha_hist_line]   611: * 269
+[M::ha_hist_line]   612: * 277
+[M::ha_hist_line]   613: * 263
+[M::ha_hist_line]   614: * 272
+[M::ha_hist_line]   615: * 256
+[M::ha_hist_line]   616: * 282
+[M::ha_hist_line]   617: * 256
+[M::ha_hist_line]   618: * 250
+[M::ha_hist_line]   619: * 233
+[M::ha_hist_line]   620: * 234
+[M::ha_hist_line]   621: * 203
+[M::ha_hist_line]   622: * 244
+[M::ha_hist_line]   623: * 238
+[M::ha_hist_line]   624: * 216
+[M::ha_hist_line]   625: * 188
+[M::ha_hist_line]   626: * 197
+[M::ha_hist_line]   627: * 186
+[M::ha_hist_line]   628: * 175
+[M::ha_hist_line]   629: * 181
+[M::ha_hist_line]   630: * 188
+[M::ha_hist_line]   631: * 164
+[M::ha_hist_line]   632: * 185
+[M::ha_hist_line]   633: * 185
+[M::ha_hist_line]   634: * 182
+[M::ha_hist_line]   635: * 170
+[M::ha_hist_line]   636: * 146
+[M::ha_hist_line]   637: * 182
+[M::ha_hist_line]   638: * 190
+[M::ha_hist_line]   639: * 164
+[M::ha_hist_line]   640: * 189
+[M::ha_hist_line]   641: * 168
+[M::ha_hist_line]   642: * 158
+[M::ha_hist_line]   643: * 142
+[M::ha_hist_line]   644: * 132
+[M::ha_hist_line]   645: * 148
+[M::ha_hist_line]   646: * 143
+[M::ha_hist_line]   647: * 138
+[M::ha_hist_line]   648: * 125
+[M::ha_hist_line]  rest: ****************************************************************************************************> 42936
+[M::ha_analyze_count] left: none
+[M::ha_analyze_count] right: none
+[M::ha_pt_gen] peak_hom: 288; peak_het: -1
+[M::ha_ct_shrink::11479.259*41.62] ==> counted 3013321 distinct minimizer k-mers
+[M::ha_pt_gen::] counting in normal mode
+[M::yak_count] collected 599715745 minimizers
+[M::ha_pt_gen::11517.476*41.58] ==> indexed 598492873 positions, counted 3013321 distinct minimizer k-mers
+[M::ha_print_ovlp_stat_0] # overlaps: 521430861
+[M::ha_print_ovlp_stat_0] # strong overlaps: 338904089
+[M::ha_print_ovlp_stat_0] # weak overlaps: 182526772
+[M::ha_print_ovlp_stat_0] # exact overlaps: 490197726
+[M::ha_print_ovlp_stat_0] # inexact overlaps: 31233135
+[M::ha_print_ovlp_stat_0] # overlaps without large indels: 512896873
+[M::ha_print_ovlp_stat_0] # reverse overlaps: 239547587
+[M::ha_print_ovlp_stat_0] # running time: 719.047
+[M::ha_assemble::12239.034*41.95@51.511GB] ==> found overlaps for the final round
+[M::ha_opt_update_cov_min] updated max_n_chain to 1440
+Writing reads to disk... 
+Reads has been written.
+Writing ma_hit_ts to disk... 
+ma_hit_ts has been written.
+Writing ma_hit_ts to disk... 
+ma_hit_ts has been written.
+bin files have been written.
+[M::gen_telo_end_t::] ==> # 5'-telomeres::0, # 3'-telomeres::0, # tot::1862751, motif::CCCTAA, motif_len::6
+[M::ul_load::] ==> UL
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::append_inexact_edges] # inserted inexact edges: 6126492
+[M::gen_cov_track::] # bases: 9333544974
+[M::dedup_HiFis::] # unitigs: 555242, # edges: 6988918, # cc_num: 1134275
+[M::ha_ct_shrink::13567.413*37.94] ==> counted 72981 distinct minimizer k-mers
+[M::ha_ft_ul_gen::13569.163*37.94@69.896GB] ==> filtered out 72981 k-mers occurring 1440 or more times
+[M::yak_count] collected 194469681 minimizers
+[M::ha_pt_ul_gen::13581.900*37.93] ==> counted 14267136 distinct minimizer k-mers
+[M::ha_ct_shrink::13581.917*37.93] ==> counted 14267136 distinct minimizer k-mers
+[M::yak_count] collected 194469681 minimizers
+[M::ha_pt_ul_gen::13597.981*37.91] ==> indexed 194469681 positions
+[M::uidx_l_build] Index has been built.
+[M::uidx_write] Index has been written.
+[M::scall_ul_pipeline::632.115] ==> Qualification
+[M::scall_ul_pipeline::] ==> # reads: 359312, # bases: 0
+[M::scall_ul_pipeline::] ==> # fully covered reads: 40523
+[M::write_all_ul_t] Index has been written.
+[M::print_ovlp_src_bl_stat::] ==> # HiFi reads:1862751, # covered HiFi reads:285462, # chained HiFi reads:201122
+[M::print_ovlp_src_bl_stat::] ==> # passed UL reads:359312, # fully corrected UL reads:31168, # almost fully corrected UL reads:7753, # UL reads have primary chains:13684
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ul_gchains_consensus::] # try:2395, # done:1066
+[M::clean_contain_g0::] # discard cread::1746
+[M::update_sg_uo::] ==> # gfa reads:314849, # covered gfa reads:188235
+[M::ul_refine_alignment::] ==> UL refinement...
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_cov_track::] # bases: 614835386
+[M::work_ul_gchains::] # try:11218, # done:7125
+[M::update_sg_uo::] ==> # gfa reads:258592, # covered gfa reads:191195
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ul_gchains_consensus::] # try:16, # done:9
+[M::clean_contain_g0::] # discard cread::3
+[M::update_sg_uo::] ==> # gfa reads:258589, # covered gfa reads:191193
+[M::ul_refine_alignment::] ==> UL refinement...
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_cov_track::] # bases: 577252992
+[M::work_ul_gchains::] # try:1306, # done:353
+[M::update_sg_uo::] ==> # gfa reads:258021, # covered gfa reads:191020
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ul_gchains_consensus::] # try:6, # done:1
+[M::clean_contain_g0::] # discard cread::0
+[M::update_sg_uo::] ==> # gfa reads:258021, # covered gfa reads:191020
+[M::ul_refine_alignment::] ==> UL refinement...
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_cov_track::] # bases: 557012285
+[M::work_ul_gchains::] # try:1211, # done:294
+[M::update_sg_uo::] ==> # gfa reads:257449, # covered gfa reads:191043
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ul_gchains_consensus::] # try:5, # done:0
+[M::clean_contain_g0::] # discard cread::0
+[M::update_sg_uo::] ==> # gfa reads:257449, # covered gfa reads:191043
+[M::ul_refine_alignment::] ==> UL refinement...
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_cov_track::] # bases: 517645970
+[M::work_ul_gchains::] # try:1176, # done:279
+[M::update_sg_uo::] ==> # gfa reads:256103, # covered gfa reads:190987
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ul_gchains_consensus::] # try:4, # done:0
+[M::clean_contain_g0::] # discard cread::0
+[M::update_sg_uo::] ==> # gfa reads:256103, # covered gfa reads:190987
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ul_gchains_consensus::] # try:4, # done:0
+[M::clean_contain_g0::] # discard cread::0
+[M::update_sg_uo::] ==> # gfa reads:256103, # covered gfa reads:190987
+[M::purge_dups] homozygous read coverage threshold: 334
+[M::purge_dups] purge duplication coverage threshold: 418
+[M::ug_ext_gfa::] # tips::417
+Writing raw unitig GFA to disk... 
+[M::update_sg_uo::] ==> # gfa reads:256039, # covered gfa reads:190944
+[M::ul_realignment::] ==> starting UL
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_cov_track::] # bases: 467393934
+[M::ha_ct_shrink::15673.606*35.73] ==> counted 203738 distinct minimizer k-mers
+[M::ha_ft_ul_gen::15674.987*35.72@72.286GB] ==> filtered out 203738 k-mers occurring 32 or more times
+[M::yak_count] collected 27518196 minimizers
+[M::ha_pt_ul_gen::15677.296*35.72] ==> counted 9750443 distinct minimizer k-mers
+[M::ha_ct_shrink::15677.310*35.72] ==> counted 9750443 distinct minimizer k-mers
+[M::yak_count] collected 27518196 minimizers
+[M::ha_pt_ul_gen::15679.995*35.72] ==> indexed 27518196 positions
+[M::uidx_l_build] Index has been built.
+[M::uidx_write] Index has been written.
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::cal_graph_ovlp_binning::33.365] ==> Qualification
+[M::write_emask_t] Index has been written.
+[M::rescall_ul_pipeline::674.749] ==> Qualification
+[M::rescall_ul_pipeline::] ==> # reads: 359312, # bases: 0, # fully corrected reads: 120426
+[M::write_all_ul_t] Index has been written.
+[M::print_integert_ovlp_stat::] # UL reads::10271, # UL ovlps::81818
+[M::print_integert_ovlp_stat::] # UL reads::4960, # UL ovlps::11148
++[M::realloc_rdb_adv] rid_n0::1862751, rid_n::1863026
+-[M::realloc_rdb_adv] rid_n0::1862751, rid_n::1863026
++[M::update_paf] dn::1862751
+[M::renew_ng] nocc::1863026, ng->n_seq::1863026, sg->n_seq::1862751
+[M::purge_dups] homozygous read coverage threshold: 334
+[M::purge_dups] purge duplication coverage threshold: 418
+[M::ug_ext_gfa::] # tips::50
+Writing processed unitig GFA to disk... 
+[M::purge_dups] homozygous read coverage threshold: 334
+[M::purge_dups] purge duplication coverage threshold: 418
+[M::mc_solve:: # edges: 5080]
+[M::mc_solve_core_adv::0.600] ==> Partition
+[M::adjust_utg_by_primary] primary contig coverage range: [283, infinity]
+Writing output.hic.p_ctg.gfa to disk... 
+Writing alternate contig GFA to disk... 
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_trans_base_count_comp::25.782] ==> Qualification
+[M::build_unitig_index::6.835] ==> Counting
+[M::build_unitig_index::1.027] ==> Memory allocating
+[M::build_unitig_index::8.760] ==> Filling pos
+[M::build_unitig_index::0.026] ==> Sorting pos
+[M::build_unitig_index::16.649] ==> HiC index has been built
+[M::write_hc_pt_index] Index has been written.
+[M::alignment_worker_pipeline::267.119] ==> Qualification
+[M::dedup_hits::0.750] ==> Dedup
+[M::dedup_hits::0.284] ==> Dedup
+[M::stat] # misjoined unitigs: 13 (N50: 703263); # corrected unitigs: 26 (N50: 494694)
+[M::adjust_weight_kv_u_trans_advance::0.137] 
+[M::mc_solve:: # edges: 316190]
+[M::mb_solve_core::2.391] ==> Partition
+[M::mc_solve_core_adv::2.172] ==> Partition
+[M::adjust_weight_kv_u_trans_advance::0.888] 
+[M::mc_solve:: # edges: 318300]
+[M::mb_solve_core::2.353] ==> Partition
+[M::mc_solve_core_adv::2.156] ==> Partition
+[M::adjust_weight_kv_u_trans_advance::0.887] 
+[M::mc_solve:: # edges: 318306]
+[M::mb_solve_core::2.332] ==> Partition
+[M::mc_solve_core_adv::2.158] ==> Partition
+[M::stat] # heterozygous bases: 344162018; # homozygous bases: 13210311
+[M::reduce_hamming_error_adv::0.285] # inserted edges: 576, # fixed bubbles: 2
+[M::adjust_utg_by_trio] primary contig coverage range: [283, infinity]
+[M::recall_arcs] # transitive arcs::646
+[M::recall_arcs] # new arcs::31500, # old arcs::24438
+[M::clean_trio_untig_graph] # adjusted arcs::0
+[M::adjust_utg_by_trio] primary contig coverage range: [283, infinity]
+[M::recall_arcs] # transitive arcs::1180
+[M::recall_arcs] # new arcs::34124, # old arcs::25846
+[M::clean_trio_untig_graph] # adjusted arcs::0
+[M::output_trio_graph_joint] dedup_base::33435552, miss_base::0
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ctg_path_gchains::] # try:1399, # done:1397
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ctg_path_gchains::] # try:720, # done:720
+[M::purge_dups] homozygous read coverage threshold: 334
+[M::purge_dups] purge duplication coverage threshold: 418
+[M::mc_solve:: # edges: 1560]
+[M::mc_solve_core_adv::0.212] ==> Partition
+[M::adjust_utg_by_primary] primary contig coverage range: [283, infinity]
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::gen_trans_base_count_comp::27.678] ==> Qualification
+[M::ha_opt_update_cov] updated max_n_chain to 1440
+[M::work_ctg_path_trans_self::] # try:2119, # done:0
+[M::order_contig_trans::] # try:0, # done:0
+Writing output.hic.hap1.p_ctg.gfa to disk... 
+Writing output.hic.hap2.p_ctg.gfa to disk... 
+Inconsistency threshold for low-quality regions in BED files: 70%
+[M::main] Version: 0.25.0-r726
+[M::main] CMD: hifiasm -t 48 -o output -f 37 -k 51 -w 51 -D 5.0 -N 100 -r 3 --max-kocc 20000 --hg-size 90m --rl-cut 1000 --sc-cut 10 -a 4 -z 0 -m 10000000 -p 100000 -n 3 -x 0.8 -y 0.2 --dual-scaf --scaf-gap 3000000 --telo-m CCCTAA --h1 ./HiCF/input_0.fastqsanger.gz --h2 ./HiCR/input_0.fastqsanger.gz --l-msjoin 500000 --ul ./ultralong/input_0.fastqsanger --ul-rate 0.1 --ul-tip 6 --primary input_0.fastqsanger
+[M::main] Real time: 17246.986 sec; CPU: 600181.037 sec; Peak RSS: 72.286 GB
