@@ -13,4 +13,4 @@ After all rounds: N50: 2992830 (n = 15); N90: 34678 (n = 781); Number sequences:
 scaffolding round 6 resolution = 500000  
 assembly N50 (2992830) too small. End of scaffolding.
 
-4. 137 Mb total size suggests duplication, unpurged/misscollapsed haplotypes and repeats, which Hi-C cannot fix.- > YAHS can only order and orient reasonably long and correct contigs. SOLUTION: improve short messy contigs in the primary assembly using hifiasm with improvements(see hifiasm-NOTES) so that YAHS can confidently scaffold  
+4. 137 Mb total size suggests duplication, unpurged/misscollapsed haplotypes and repeats, which Hi-C cannot fix.- > YAHS can only order and orient reasonably long and correct contigs. SOLUTION: improve short messy contigs in the primary assembly using hifiasm with improvements(see README.md in hifiasm directory) so that YAHS can confidently scaffold  
